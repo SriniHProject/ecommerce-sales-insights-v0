@@ -66,6 +66,16 @@ We recommend:
   - **Do not rely on coupons**, indicating purchases are driven more by interest or need than incentives
 - **Low-retention months** (e.g., February) are marked by fewer repeat purchases, lower spending, and possibly lower engagement or satisfaction after the first purchase
 
+### 📊 Supporting Data (High-Retention Month: August)
+
+| Metric                    | Value                      |
+|---------------------------|----------------------------|
+| Retention Rate            | 28%                        |
+| Top Categories            | Apparel, Nest-USA, Office  |
+| Average Order Value       | ₹166.20                    |
+| Average Items per Order   | 11.37                      |
+| Coupon Usage Rate         | 0%                         |
+
 ---
 ![](plots/monthly_customer_retention.png)
 
@@ -85,17 +95,6 @@ These strategies aim to **raise annual retention by at least 15%** and **increas
 
 ---
 
-### 📊 Supporting Data (High-Retention Month: August)
-
-| Metric                    | Value                      |
-|---------------------------|----------------------------|
-| Retention Rate            | 28%                        |
-| Top Categories            | Apparel, Nest-USA, Office  |
-| Average Order Value       | ₹166.20                    |
-| Average Items per Order   | 11.37                      |
-| Coupon Usage Rate         | 0%                         |
-
----
 
 
 ## 💰 Revenue Contribution & Product Performance Analysis
