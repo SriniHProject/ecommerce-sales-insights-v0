@@ -326,8 +326,9 @@ This analysis explores customer purchase patterns across different segments, inc
 
 
 ### Coupon Usage and Transaction Value
-- No statistically significant difference found in transaction value between coupon users and non-users
-- T-test returned NaN values, indicating insufficient or invalid data for comparison
+- Customers who used coupons had a slightly lower average transaction value (87.18) than those who did not (90.53).  
+- However, the difference is **not statistically significant** (t = -1.444, p = 0.1488), suggesting that **coupon usage does not materially affect average order value.**
+
 
 ### Demographic Purchase Patterns
 - **Location has a significant effect on purchase behavior** (ANOVA p = 0.0114)
