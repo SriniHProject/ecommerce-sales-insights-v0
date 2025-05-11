@@ -53,10 +53,45 @@ We recommend:
 
 By implementing these strategies, the company can **reduce acquisition volatility by 25–30%**, leading to **more stable growth and better operational efficiency** throughout the year.
 
-# 📊 E-commerce Marketing & Sales Analysis 2019
+## 💰 Revenue Contribution & Product Performance Analysis
 
-## Overview
-This analysis evaluates marketing efficiency, monthly return on ad spend (ROAS), and the relationship between marketing investments (online/offline) and revenue. The objective is to inform more effective marketing allocation and strategy.
+### 🔍 Key Findings
+
+- **New vs. Existing Customers**:
+  - Existing customers contribute **72%** of the total revenue.
+  - New customers have **15% lower** average order value compared to existing ones.
+
+- **Coupon Usage Impact**:
+  - **Coupon users spend 32% more** per transaction than non-coupon users.
+  - Coupon usage contributes to **over 50% of total revenue**, showing discount strategies can **drive revenue growth** rather than erode margins.
+
+- **Top-Performing Products**:
+  - The **Nest-USA** product line dominates revenue, contributing **over 2.5 million** in sales.
+  - High-ticket items like **Nest Learning Thermostats** and **Security Cameras** lead the revenue chart, although **repeat purchases** in this category are low.
+
+### 📈 Visualization: Revenue by Customer Type
+
+The chart below shows revenue breakdown by customer type (new vs. existing), demonstrating the dominant contribution of retained customers to total revenue.
+
+![Revenue by Customer Type](plots/revenue_by_customer_type.png)
+
+
+---
+
+### ✅ Recommendations
+
+Our analysis reveals that while existing customers generate 72% of total revenue, their contribution varies significantly by month. Customers using coupons spend 32% more per transaction than non-coupon users, indicating that **strategic discounting** can drive growth.
+
+We recommend:
+
+- 🎯 **Implementing a graduated discount strategy** – offer deeper discounts on second purchases to increase retention.
+- 🔄 **Creating cross-category bundles**, pairing high-margin items with electronics to drive basket size and margin.
+- 📦 **Introducing a subscription box model** for frequently repurchased items to boost recurring revenue.
+- 🌟 **Developing loyalty rewards by category**, encouraging customers to explore and repeat-purchase across product lines.
+
+These initiatives should help **increase average order value by 18%** and **improve new-to-existing customer revenue ratio**, driving more balanced and sustainable growth.
+
+
 
 ## 📈 Marketing Effectiveness
 
