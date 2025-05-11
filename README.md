@@ -336,7 +336,7 @@ This analysis explores customer purchase patterns across different segments, inc
 - **Washington DC and New Jersey** customers show lowest engagement in terms of order frequency and value
 
 ### Gender-Based Purchase Patterns
-- Female customers have **higher average order value ($112.80 vs $68.65)** and order more frequently than male customers
+- Female customers have **higher average order value (112.80 vs 68.65)** and order more frequently than male customers
 - However, this difference is **not statistically significant** (p = 0.6098), suggesting high variability or limited sample size
 
 ### Pricing and Purchase Behavior
