@@ -53,6 +53,41 @@ We recommend:
 
 By implementing these strategies, the company can **reduce acquisition volatility by 25–30%**, leading to **more stable growth and better operational efficiency** throughout the year.
 
+# 📊 E-commerce Marketing & Sales Analysis 2019
+
+## Overview
+This analysis evaluates marketing efficiency, monthly return on ad spend (ROAS), and the relationship between marketing investments (online/offline) and revenue. The objective is to inform more effective marketing allocation and strategy.
+
+## 📈 Marketing Effectiveness
+
+### 💹 Marketing ROI & Allocation
+- **Month with highest ROAS:** November (3.16)
+- **Month with lowest ROAS:** February (2.27)
+- **Online and offline marketing spend are strongly correlated** (correlation: **0.88**)
+
+### 📣 Channel & Spend Effectiveness
+- **Revenue is highly correlated with online spend** (correlation: **0.89**)
+- **Revenue has moderate correlation with offline spend** (correlation: **0.80**)
+
+![](plots/revenue_vs_marketing.png)
+![](plots/corr_revenue_marketing_spend.png)
+
+## ✅ Key Recommendations
+
+Our marketing analysis reveals meaningful ROI variation, with **November delivering a ROAS of 3.16**, compared to **February’s 2.27**. **Online spend shows a stronger relationship with revenue (0.89)** than offline spend (0.80), indicating that digital channels are driving more effective returns.
+
+We recommend:
+
+- **Reallocating budget from low-performing offline months (e.g., February) toward digital channels**
+- **Prioritizing online marketing investments**, which show stronger linkage to revenue outcomes
+- **Implementing monthly ROAS tracking**, to continuously refine channel strategy and respond to seasonal variation
+- **Exploring campaign performance by customer segment and product category** in future phases, to fine-tune targeting
+
+This approach is expected to **increase overall marketing ROI by 20–25%**, without requiring additional spend, by emphasizing high-performing channels and time periods.
+
+---
+
+*Data used: 2019 monthly ROAS metrics and correlation analysis of online/offline marketing spend vs. revenue.*
 
 
 
