@@ -100,9 +100,10 @@ We recommend:
 
 ### 🔍 Key Findings
 
-- **New vs. Existing Customers**:
-  - Existing customers contribute **72%** of the total revenue.
-  - New customers have **15% lower** average order value compared to existing ones.
+- **Customer Contribution**:
+  - **Existing customers contribute 52.6%** of total revenue, slightly higher than new customers (47.4%).
+  - This suggests a relatively balanced revenue base but leaves room for deepening loyalty strategies.
+
 
 - **Coupon Usage Impact**:
   - **Coupon users spend 32% more** per transaction than non-coupon users.
