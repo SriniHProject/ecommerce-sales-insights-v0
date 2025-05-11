@@ -91,7 +91,6 @@ We recommend:
 - 💬 **Implementing a post-purchase satisfaction survey**, offering a **5% discount** for completion, to gather insights and encourage another visit
 - 📅 **Scheduling limited-time seasonal or loyalty promotions** during low-retention periods like **February and March**
 
-These strategies aim to **raise annual retention by at least 15%** and **increase customer lifetime value by 20–25%**, contributing to more stable long-term growth.
 
 ---
 
@@ -132,7 +131,6 @@ We recommend:
 - 📦 **Introducing a subscription box model** for frequently repurchased items to boost recurring revenue.
 - 🌟 **Developing loyalty rewards by category**, encouraging customers to explore and repeat-purchase across product lines.
 
-These initiatives should help **increase average order value by 18%** and **improve new-to-existing customer revenue ratio**, driving more balanced and sustainable growth.
 
 
 
@@ -164,7 +162,6 @@ We recommend:
 - **Implementing monthly ROAS tracking**, to continuously refine channel strategy and respond to seasonal variation
 - **Exploring campaign performance by customer segment and product category** in future phases, to fine-tune targeting
 
-This approach is expected to **increase overall marketing ROI by 20–25%**, without requiring additional spend, by emphasizing high-performing channels and time periods.
 
 ---
 
@@ -213,9 +210,9 @@ We recommend:
 - **For Standard Segment**: Implement reactivation flows and “second purchase” incentives based on initial order history to reduce churn.
 
 This approach aims to:
-- Increase Premium segment retention by **25%**
-- Convert **15% of Gold customers to Premium** within 6 months
-- Reduce the Standard segment’s one-time purchase rate by **20%**, lifting overall revenue contribution
+- Increase Premium segment retention by 
+- Convert ** Gold customers to Premium** within 6 months
+- Reduce the Standard segment’s one-time purchase rate , lifting overall revenue contribution
 
 ---
 
@@ -273,7 +270,7 @@ We recommend:
 - **Segmenting cohorts by acquisition source and time of year**, to isolate high-retention acquisition patterns
 
 This cohort-based strategy aims to:
-- **Increase 6-month average retention by 20%**
+- **Increase 6-month average retention by**
 - **Improve long-term customer value by encouraging habitual engagement**
 - **Reduce churn by targeting the critical 30–90 day post-purchase window**
 
@@ -337,7 +334,7 @@ We recommend:
 - **Testing a “regional free shipping” or pricing experiment** in low-engagement zones to drive incremental orders
 
 These targeted initiatives aim to:
-- Increase average order value by 10–15% in underperforming regions
+- Increase average order value  underperforming regions
 - Improve regional engagement and purchase frequency
 - Strengthen data-driven campaign design with validated behavioral insights
 
@@ -396,8 +393,8 @@ We recommend:
 - **Analyzing weekday sales patterns** (data pending) to explore additional timing-based sales opportunities
 
 These strategies are expected to:
-- Improve **inventory turnover by 25%**
-- Reduce **stockout rates by 30%** during critical sales windows
+- Improve **inventory turnover**
+- Reduce **stockout rates** during critical sales windows
 - Increase **seasonal marketing effectiveness through better-timed campaigns**
 
 
