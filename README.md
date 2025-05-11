@@ -54,6 +54,62 @@ We recommend:
 By implementing these strategies, the company can **reduce acquisition volatility by 25–30%**, leading to **more stable growth and better operational efficiency** throughout the year.
 
 
+## Overview
+This analysis explores customer retention patterns across a 12-month period, based on cohort behavior following initial acquisition. The focus is on understanding retention drop-off points, identifying windows of re-engagement, and informing strategies to increase customer lifetime value (LTV) through targeted lifecycle marketing.
+
+## 🔍 Customer Segmentation
+
+### Retention Patterns by Cohort
+- Retention drops sharply after initial purchase, with only **9.68% of customers returning in month 1**
+- Retention gradually improves from **month 2 to month 5**, peaking at **14.66%**
+- **Long-term retention strengthens in later months**, reaching **15.81% by month 11**
+- Suggests opportunity for **mid- and long-term reactivation**, even if early repeat behavior is low
+
+### Lifetime Value Implications
+- Sustained retention after month 5 implies **valuable long-term potential**
+- Strong retention in months 10 and 11 may reflect impact of **seasonal campaigns or loyalty triggers**
+- Indicates that lifetime value **could be increased with better early engagement**
+
+### Acquisition Quality Trends
+- Current acquisition appears to generate **low early repeat rates**
+- Patterns suggest that **some cohorts re-engage later**, highlighting the **importance of post-acquisition nurturing**
+
+### 📊 Retention Rate Table
+
+| Month | Retention Rate |
+|-------|----------------|
+| 0     | 100.00%        |
+| 1     | 9.68%          |
+| 2     | 10.29%         |
+| 3     | 10.89%         |
+| 4     | 11.51%         |
+| 5     | 14.66%         |
+| 6     | 12.53%         |
+| 7     | 13.37%         |
+| 8     | 9.76%          |
+| 9     | 11.74%         |
+| 10    | 12.98%         |
+| 11    | 15.81%         |
+
+![](plots/cohort_analysis.png)
+## ✅ Key Recommendations
+
+Our cohort analysis reveals **high drop-off in early retention**, with under 10% of customers making a second purchase in the first month. However, **retention climbs steadily in later months**, peaking at **15.81% in month 11**, indicating untapped potential for re-engagement strategies.
+
+We recommend:
+
+- **Enhancing early lifecycle engagement** through onboarding journeys and product follow-ups in the first 30–60 days
+- **Implementing milestone-based loyalty nudges** at months 3, 5, and 11 to align with observed retention lifts
+- **Identifying seasonal or behavioral triggers** that contribute to month 10–11 retention for replication year-round
+- **Segmenting cohorts by acquisition source and time of year**, to isolate high-retention acquisition patterns
+
+This cohort-based strategy aims to:
+- **Increase 6-month average retention by 20%**
+- **Improve long-term customer value by encouraging habitual engagement**
+- **Reduce churn by targeting the critical 30–90 day post-purchase window**
+
+---
+
 ## 🧾 Customer Behavior & Purchase Analysis
 
 ## Overview
