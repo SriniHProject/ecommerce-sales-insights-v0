@@ -254,7 +254,7 @@ We recommend:
 
 This approach aims to:
 - Increase Premium segment retention by 
-- Convert ** Gold customers to Premium** within 6 months
+- Convert **Gold customers to Premium** within 6 months
 - Reduce the Standard segment’s one-time purchase rate , lifting overall revenue contribution
 
 ---
