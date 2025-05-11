@@ -1,6 +1,6 @@
 
 # 📊 E-Commerce Marketing & Sales Analysis (2019)
-### 🧩 Business Problem & Case Study
+## 🧩 Business Problem & Case Study
 
 In a rapidly growing e-commerce market, the company seeks to **maximize customer acquisition**, **enhance retention**, and **optimize revenue**, while ensuring **efficient marketing spend**. Despite year-round sales activity, fluctuations in customer growth, inconsistent marketing ROI, and uneven revenue contributions from different customer segments present critical business challenges.
 
@@ -15,7 +15,7 @@ This project leverages a full year (**2019**) of transaction, marketing, and cus
 Through **exploratory data analysis (EDA)**, **statistical testing**, and **segmentation techniques**, we aim to deliver **insightful, actionable strategies** to improve customer engagement and support sustainable revenue growth.
 
 
-# 📦 Dataset Overview
+## 📦 Dataset Overview
 All data spans **January 1, 2019 to December 31, 2019**.
 
 | **Dataset**             | **Description**                                | **Key Fields**                                                  |
@@ -28,7 +28,7 @@ All data spans **January 1, 2019 to December 31, 2019**.
 
 All data spans January 1, 2019 to December 31, 2019.
 
-### 📅 Monthly Acquisition Trends
+## 📅 Monthly Acquisition Trends
 
 - **Highest acquisition month**: January, with **215 new customers**
 - **Lowest acquisition month**: November, with only **68 new customers**
@@ -36,11 +36,12 @@ All data spans January 1, 2019 to December 31, 2019.
 
 Such variation causes challenges in resource planning, budget forecasting, and consistent sales pipeline development.
 
+---
 ![Monthly Customer Acquisition Histogram](plots/monthly_acquisition_hist.png)
 
 ---
 
-## ✅ Recommendations
+### ✅ Recommendations
 
 Our analysis reveals significant variability in monthly customer acquisition. January outperforms with 215 new customers (40% above average), while November significantly underperforms with just 68 (43% below average). The high coefficient of variation (0.36) highlights a need for strategic intervention to ensure year-round acquisition consistency.
 
@@ -117,9 +118,8 @@ These strategies aim to **raise annual retention by at least 15%** and **increas
 ### 📈 Visualization: Revenue by Customer Type
 
 The chart below shows revenue breakdown by customer type (new vs. existing), demonstrating the dominant contribution of retained customers to total revenue.
-
+---
 ![Revenue by Customer Type](plots/revenue_by_customer_type.png)
-
 
 ---
 
@@ -148,11 +148,14 @@ These initiatives should help **increase average order value by 18%** and **impr
 ### 📣 Channel & Spend Effectiveness
 - **Revenue is highly correlated with online spend** (correlation: **0.89**)
 - **Revenue has moderate correlation with offline spend** (correlation: **0.80**)
-
+---
 ![](plots/revenue_vs_marketing.png)
+
+---
 ![](plots/corr_revenue_marketing_spend.png)
 
-## ✅ Key Recommendations
+---
+### ✅ Key Recommendations
 
 Our marketing analysis reveals meaningful ROI variation, with **November delivering a ROAS of 3.16**, compared to **February’s 2.27**. **Online spend shows a stronger relationship with revenue (0.89)** than offline spend (0.80), indicating that digital channels are driving more effective returns.
 
@@ -171,12 +174,11 @@ This approach is expected to **increase overall marketing ROI by 20–25%**, wit
 
 
 
-# 📊 Customer Segmentation Analysis – 2019 E-commerce Data
+## 📊 Customer Segmentation Analysis – 2019 E-commerce Data
 
 ## Overview
 This analysis applies RFM (Recency, Frequency, Monetary) segmentation to identify key customer groups based on purchasing behavior and value. The goal is to inform targeted retention, upselling, and promotional strategies.
 
-## 🔍 Customer Segmentation
 
 ### Segment Profiles
 
@@ -196,8 +198,12 @@ This analysis applies RFM (Recency, Frequency, Monetary) segmentation to identif
 | Silver    |   462,495.32  | 9.9%               |
 | Standard  |   205,122.13  | 4.4%               |
 
+---
 ![](plots/customer_segment_analysis.png)
-## ✅ Key Recommendations
+
+---
+
+### ✅ Key Recommendations
 
 Our RFM segmentation reveals a highly skewed revenue distribution, with the **Premium segment (27.5% of customers) generating 64.4% of total revenue**. The **Gold segment** shows stable purchasing patterns with room to upgrade. Meanwhile, the **Standard segment**, which comprises the largest customer group, contributes the least to revenue, suggesting a need for targeted re-engagement.
 
@@ -215,7 +221,7 @@ This approach aims to:
 
 ---
 
-# 📈 Customer Cohort Retention Analysis – 2019 E-commerce Data
+## 📈 Customer Cohort Retention Analysis – 2019 E-commerce Data
 
 ## Overview
 This analysis explores customer retention patterns across a 12-month period, based on cohort behavior following initial acquisition. The focus is on understanding retention drop-off points, identifying windows of re-engagement, and informing strategies to increase customer lifetime value (LTV) through targeted lifecycle marketing.
@@ -253,8 +259,11 @@ This analysis explores customer retention patterns across a 12-month period, bas
 | 10    | 12.98%         |
 | 11    | 15.81%         |
 
+---
 ![](plots/cohort_analysis.png)
-## ✅ Key Recommendations
+
+---
+### ✅ Key Recommendations
 
 Our cohort analysis reveals **high drop-off in early retention**, with under 10% of customers making a second purchase in the first month. However, **retention climbs steadily in later months**, peaking at **15.81% in month 11**, indicating untapped potential for re-engagement strategies.
 
@@ -314,7 +323,10 @@ This analysis explores customer purchase patterns across different segments, inc
 | Female | 112.80           | 10.88                | 4.60                 |
 | Male   | 68.65            | 6.66                 | 4.32                 |
 
+---
 ![](plots/tenure_vs_purhcase_frequency.png)
+
+---
 ### ✅ Key Recommendations
 
 Our statistical analysis reveals **strong regional differences** in customer behavior, particularly in average order value and purchase frequency, with **Chicago and California** leading in both areas. While **gender differences exist**, they are not statistically significant in this dataset. **Coupon impact could not be validated** due to insufficient or invalid data.
@@ -363,10 +375,16 @@ This analysis evaluates the influence of seasonal events and time-based patterns
 | Black Friday     | 156,860.25     | 19,607.53         | +53.22%                              |
 | Holiday Season   | 254,241.04     | 14,955.36         | +16.87%                              |
 
+---
 ![](plots/daily_sales.png)
+
+---
 ![](plots/seasonal_analysis.png)
+
+---
 ![](plots/seasonal_category.png)
 
+---
 ### ✅ Key Recommendations
 
 Our event-based revenue analysis highlights the **importance of aligning promotions and inventory with peak demand periods**. **Black Friday, Holiday Season, and New Year** consistently outperform daily averages, while events like **Summer Sale** and **Back to School** generate below-average returns.
