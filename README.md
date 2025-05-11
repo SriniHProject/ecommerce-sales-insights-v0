@@ -53,6 +53,51 @@ We recommend:
 
 By implementing these strategies, the company can **reduce acquisition volatility by 25–30%**, leading to **more stable growth and better operational efficiency** throughout the year.
 
+
+## 🔄 Customer Retention Analysis
+
+### 📌 Key Findings
+
+- **Retention varies significantly month to month**, with **August showing the highest retention rate** at **28%**, while **February** trails at only **6%**
+- During **high-retention periods**, customers:
+  - Frequently purchase from categories like **Apparel**, **Nest-USA**, and **Office**
+  - Place **larger orders**, averaging **11.4 items per transaction**
+  - Have **high order values**, with an average of **₹166.20 per order**
+  - **Do not rely on coupons**, indicating purchases are driven more by interest or need than incentives
+- **Low-retention months** (e.g., February) are marked by fewer repeat purchases, lower spending, and possibly lower engagement or satisfaction after the first purchase
+
+---
+![](plots/monthly_customer_retention.png)
+
+---
+### ✅ Recommendations
+
+Our data shows that **customer retention fluctuates heavily**, with **August** showing a **28% retention rate**, while **February** falls to just **6%**. In high-retention months, customers spend more, buy more items, and often return to the same product categories—without coupon incentives.
+
+We recommend:
+
+- ✉️ **Developing a personalized re-engagement program**, triggered **30 days after initial purchase**, to encourage a second transaction
+- 🧩 **Creating "complete the collection" promotions**, where customers are shown **complementary products** based on what they previously bought
+- 💬 **Implementing a post-purchase satisfaction survey**, offering a **5% discount** for completion, to gather insights and encourage another visit
+- 📅 **Scheduling limited-time seasonal or loyalty promotions** during low-retention periods like **February and March**
+
+These strategies aim to **raise annual retention by at least 15%** and **increase customer lifetime value by 20–25%**, contributing to more stable long-term growth.
+
+---
+
+### 📊 Supporting Data (High-Retention Month: August)
+
+| Metric                    | Value                      |
+|---------------------------|----------------------------|
+| Retention Rate            | 28%                        |
+| Top Categories            | Apparel, Nest-USA, Office  |
+| Average Order Value       | ₹166.20                    |
+| Average Items per Order   | 11.37                      |
+| Coupon Usage Rate         | 0%                         |
+
+---
+
+
 ## 💰 Revenue Contribution & Product Performance Analysis
 
 ### 🔍 Key Findings
