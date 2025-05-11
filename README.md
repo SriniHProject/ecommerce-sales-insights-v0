@@ -54,10 +54,57 @@ We recommend:
 By implementing these strategies, the company can **reduce acquisition volatility by 25–30%**, leading to **more stable growth and better operational efficiency** throughout the year.
 
 
+
+
+# 📊 Customer Segmentation Analysis – 2019 E-commerce Data
+
+## Overview
+This analysis applies RFM (Recency, Frequency, Monetary) segmentation to identify key customer groups based on purchasing behavior and value. The goal is to inform targeted retention, upselling, and promotional strategies.
+
+## 🔍 Customer Segmentation
+
+### Segment Profiles
+
+| Segment   | % of Customers | Avg. Recency (days) | Avg. Frequency | Avg. Monetary Value |
+|-----------|----------------|---------------------|----------------|----------------------|
+| Premium   | 27.5%          | 62.9                | 40.5           | 7467                |
+| Gold      | 20.9%          | 140.3               | 18.7           | 3237                |
+| Silver    | 22.5%          | 152.5               | 9.0            | 1397                |
+| Standard  | 29.1%          | 221.0               | 3.7            | 480                 |
+
+### Revenue Contribution by Segment
+
+| Segment   | Revenue       | % of Total Revenue |
+|-----------|---------------|--------------------|
+| Premium   | 3,009,279.94  | 64.4%              |
+| Gold      |   993,897.23  | 21.3%              |
+| Silver    |   462,495.32  | 9.9%               |
+| Standard  |   205,122.13  | 4.4%               |
+
+![](plots/customer_segment_analysis.png)
+## ✅ Key Recommendations
+
+Our RFM segmentation reveals a highly skewed revenue distribution, with the **Premium segment (27.5% of customers) generating 64.4% of total revenue**. The **Gold segment** shows stable purchasing patterns with room to upgrade. Meanwhile, the **Standard segment**, which comprises the largest customer group, contributes the least to revenue, suggesting a need for targeted re-engagement.
+
+We recommend:
+
+- **For Premium Segment**: Launch a VIP loyalty program with exclusive offers, early product access, and concierge-style support.
+- **For Gold Segment**: Create a tiered loyalty ladder encouraging upgrades to Premium through milestone rewards and predictive product suggestions.
+- **For Silver Segment**: Leverage educational and cross-selling campaigns to increase frequency and order size, targeting their moderate recency.
+- **For Standard Segment**: Implement reactivation flows and “second purchase” incentives based on initial order history to reduce churn.
+
+This approach aims to:
+- Increase Premium segment retention by **25%**
+- Convert **15% of Gold customers to Premium** within 6 months
+- Reduce the Standard segment’s one-time purchase rate by **20%**, lifting overall revenue contribution
+
+---
+
+# 📈 Customer Cohort Retention Analysis – 2019 E-commerce Data
+
 ## Overview
 This analysis explores customer retention patterns across a 12-month period, based on cohort behavior following initial acquisition. The focus is on understanding retention drop-off points, identifying windows of re-engagement, and informing strategies to increase customer lifetime value (LTV) through targeted lifecycle marketing.
 
-## 🔍 Customer Segmentation
 
 ### Retention Patterns by Cohort
 - Retention drops sharply after initial purchase, with only **9.68% of customers returning in month 1**
