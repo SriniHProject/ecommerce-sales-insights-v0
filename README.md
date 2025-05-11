@@ -112,6 +112,47 @@ We recommend:
   - The **Nest-USA** product line dominates revenue, contributing **over 2.5 million** in sales.
   - High-ticket items like **Nest Learning Thermostats** and **Security Cameras** lead the revenue chart, although **repeat purchases** in this category are low.
 
+### 📊 Revenue Analysis by Coupon Usage
+
+| Coupon Status | Total Revenue | Avg Revenue per Transaction | Transaction Count | Revenue Share (%) |
+|---------------|----------------|-----------------------------|-------------------|--------------------|
+| Clicked       | 2,377,266.65   | 88.29                       | 26,926            | 50.90              |
+| Not Used      |   732,709.87   | 90.53                       | 8,094             | 15.69              |
+| Used          | 1,560,818.10   | 87.18                       | 17,904            | 33.42              |
+
+**Key Insight:**  
+Clicked coupons generate over **50% of total revenue**, highlighting the potential of engaged but non-redeeming users. "Used" coupons drive one-third of total revenue, while "Not Used" still contribute 15.7%—likely from high-value, non-discounted purchases.
+
+---
+
+### 🥇 Top 5 Products by Revenue
+
+| Product Description                                                | Product Category |
+|-------------------------------------------------------------------|------------------|
+| Nest Learning Thermostat 3rd Gen-USA - Stainless Steel            | Nest-USA         |
+| Nest Cam Outdoor Security Camera - USA                            | Nest-USA         |
+| Nest Cam Indoor Security Camera - USA                             | Nest-USA         |
+| Nest Protect Smoke + CO White Battery Alarm-USA                   | Nest-USA         |
+| Nest Protect Smoke + CO White Wired Alarm-USA                     | Nest-USA         |
+
+**Key Insight:**  
+All top 5 products by revenue belong to the **Nest-USA** category, indicating a strong product-market fit and potential for bundling or upselling across this line.
+
+---
+
+### 🏷️ Product Categories by Revenue
+
+| Product Category | Total Revenue | Units Sold |
+|------------------|----------------|-------------|
+| Nest-USA         | 2,554,202.39   | 21,430      |
+| Apparel          |   591,145.80   | 32,438      |
+| Nest             |   518,193.50   | 2,837       |
+| Office           |   276,794.40   | 88,383      |
+| Drinkware        |   200,707.83   | 30,501      |
+
+**Key Insight:**  
+While **Nest-USA** leads by revenue, **Office** and **Apparel** dominate in **unit volume**, suggesting different pricing and margin dynamics. **Drinkware** shows healthy unit turnover and may benefit from pricing optimization or bundling.
+
 ### 📈 Visualization: Revenue by Customer Type
 
 The chart below shows revenue breakdown by customer type (new vs. existing), demonstrating the dominant contribution of retained customers to total revenue.
