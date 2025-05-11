@@ -372,9 +372,9 @@ Our statistical analysis reveals **strong regional differences** in customer beh
 
 We recommend:
 
+- Since there is no statistically significant difference in transaction values for coupon users vs. non-users, **consider reevaluating the coupon strategy**. Focus on targeting specific customer segments or using coupons to incentivize second purchases.
 - **Tailoring promotions to high-performing regions like Chicago and California** with upsell and loyalty incentives
 - **Creating location-specific campaigns** to improve engagement in underperforming areas like Washington DC and New Jersey
-- **Improving data quality and completeness** for coupon usage to enable valid impact assessment
 - **Testing a “regional free shipping” or pricing experiment** in low-engagement zones to drive incremental orders
 
 These targeted initiatives aim to:
