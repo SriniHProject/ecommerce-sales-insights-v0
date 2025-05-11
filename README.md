@@ -115,6 +115,7 @@ We recommend:
 ### 📈 Visualization: Revenue by Customer Type
 
 The chart below shows revenue breakdown by customer type (new vs. existing), demonstrating the dominant contribution of retained customers to total revenue.
+
 ---
 ![Revenue by Customer Type](plots/revenue_by_customer_type.png)
 
