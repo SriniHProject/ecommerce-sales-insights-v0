@@ -48,7 +48,7 @@ Our analysis reveals significant variability in monthly customer acquisition. Ja
 We recommend:
 
 - 📬 **Launching a Q4 “Reactivation” campaign**: Incentivize dormant customers or lapsed browsers in slower months like November with personalized reactivation emails or flash discounts.
-- 💰 **Reallocating 20% of marketing budget** from high-performing months to February, September, and November, where acquisition drops significantly.
+- 💰 **Reallocating of marketing budget** from high-performing months to February, September, and November, where acquisition drops significantly.
 - 🎯 **Introducing limited-time offers** like first-purchase bundles or trial products targeted at new users during historically low-acquisition periods.
 - 📈 **Running performance forecasting models** to pre-emptively boost acquisition before anticipated dips based on seasonal trends.
 
