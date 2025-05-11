@@ -394,7 +394,6 @@ This analysis evaluates the influence of seasonal events and time-based patterns
 - **Black Friday and Holiday Season drive substantial sales peaks**, with daily revenue increases of **53.22%** and **16.87%** respectively
 - **New Year also contributes positively**, with a **10.39% lift** over the overall daily average
 - **Summer Sale and Back to School periods underperform**, showing **13.97%** and **9.16% lower revenue** than the daily average
-
 - **Day-of-Week Patterns**: Sales performance peaks on Fridays and Thursdays, while weekends (Saturdays and Sundays) show notably higher sales compared to weekdays.
 
 
@@ -434,7 +433,7 @@ We recommend:
 - **Launching pre-season marketing campaigns 4–6 weeks ahead** of known peaks to maximize conversions
 - **Reevaluating Summer Sale and Back to School campaigns** for targeting, timing, and product-market fit
 - **Developing a holiday readiness program**, scaling fulfillment and customer service capacity in November–December
--**Weekday vs. Weekend Promotions**:
+- **Weekday vs. Weekend Promotions**:
    - Given that weekends generate higher sales, consider creating weekend-exclusive offers and promotions to increase customer engagement.
    - Focus on increasing Friday and Thursday sales, as these days have been identified as particularly profitable.
 
