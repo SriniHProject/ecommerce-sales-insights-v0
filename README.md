@@ -54,6 +54,66 @@ We recommend:
 By implementing these strategies, the company can **reduce acquisition volatility by 25–30%**, leading to **more stable growth and better operational efficiency** throughout the year.
 
 
+## 🧾 Customer Behavior & Purchase Analysis
+
+## Overview
+This analysis explores customer purchase patterns across different segments, including coupon usage, geographic location, gender, and average tenure. It focuses on understanding how customer traits influence purchase behavior and order values, using statistical tests to guide evidence-based recommendations.
+
+
+### Coupon Usage and Transaction Value
+- No statistically significant difference found in transaction value between coupon users and non-users
+- T-test returned NaN values, indicating insufficient or invalid data for comparison
+
+### Demographic Purchase Patterns
+- **Location has a significant effect on purchase behavior** (ANOVA p = 0.0114)
+- Customers in **Chicago and California** have higher average order values and order frequency
+- **Washington DC and New Jersey** customers show lowest engagement in terms of order frequency and value
+
+### Gender-Based Purchase Patterns
+- Female customers have **higher average order value ($112.80 vs $68.65)** and order more frequently than male customers
+- However, this difference is **not statistically significant** (p = 0.6098), suggesting high variability or limited sample size
+
+### Pricing and Purchase Behavior
+- Locations with higher order values (Chicago, California) also show **higher orders per customer**
+- Regions with lower prices (e.g. Washington DC, New Jersey) show **lower engagement**, possibly reflecting regional preferences or income sensitivity
+
+### 📊 Summary of Key Metrics
+
+#### Purchase Behavior by Location
+
+| Location        | Avg Order Value | Orders per Customer | Avg Items per Order |
+|----------------|------------------|----------------------|----------------------|
+| California      | 55.14            | 5.37                 | 4.50                 |
+| Chicago         | 62.16            | 6.19                 | 4.57                 |
+| New Jersey      | 15.66            | 1.55                 | 5.04                 |
+| New York        | 35.82            | 3.75                 | 4.16                 |
+| Washington DC   | 9.78             | 0.96                 | 4.50                 |
+
+#### Purchase Behavior by Gender
+
+| Gender | Avg Order Value | Orders per Customer | Avg Items per Order |
+|--------|------------------|----------------------|----------------------|
+| Female | 112.80           | 10.88                | 4.60                 |
+| Male   | 68.65            | 6.66                 | 4.32                 |
+
+![](plots/tenure_vs_purhcase_frequency.png)
+### ✅ Key Recommendations
+
+Our statistical analysis reveals **strong regional differences** in customer behavior, particularly in average order value and purchase frequency, with **Chicago and California** leading in both areas. While **gender differences exist**, they are not statistically significant in this dataset. **Coupon impact could not be validated** due to insufficient or invalid data.
+
+We recommend:
+
+- **Tailoring promotions to high-performing regions like Chicago and California** with upsell and loyalty incentives
+- **Creating location-specific campaigns** to improve engagement in underperforming areas like Washington DC and New Jersey
+- **Improving data quality and completeness** for coupon usage to enable valid impact assessment
+- **Testing a “regional free shipping” or pricing experiment** in low-engagement zones to drive incremental orders
+
+These targeted initiatives aim to:
+- Increase average order value by 10–15% in underperforming regions
+- Improve regional engagement and purchase frequency
+- Strengthen data-driven campaign design with validated behavioral insights
+
+---
 
 ## 🛍️ Seasonal Sales & Event Impact Analysis
 
@@ -85,6 +145,10 @@ This analysis evaluates the influence of seasonal events and time-based patterns
 | Black Friday     | 156,860.25     | 19,607.53         | +53.22%                              |
 | Holiday Season   | 254,241.04     | 14,955.36         | +16.87%                              |
 
+![](plots/daily_sales.png)
+![](plots/seasonal_analysis.png)
+![](plots/seasonal_category.png)
+
 ### ✅ Key Recommendations
 
 Our event-based revenue analysis highlights the **importance of aligning promotions and inventory with peak demand periods**. **Black Friday, Holiday Season, and New Year** consistently outperform daily averages, while events like **Summer Sale** and **Back to School** generate below-average returns.
@@ -102,9 +166,7 @@ These strategies are expected to:
 - Reduce **stockout rates by 30%** during critical sales windows
 - Increase **seasonal marketing effectiveness through better-timed campaigns**
 
-![](plots/daily_sales.png)
-![](plots/seasonal_analysis.png)
-![](plots/seasonal_category.png)
+
 
 ---
 
